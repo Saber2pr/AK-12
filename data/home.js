@@ -1,5 +1,5 @@
 /* eslint-disable */
-const config = {
+window.config = {
   'title': "AK-12's Website",
   'logo': 'https://github.com/Saber2pr/MyWeb/raw/master/resource/AK12.jpg',
   'author': 'I am AK-12',
